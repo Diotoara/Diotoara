@@ -54,9 +54,9 @@ IT Engineering Student | Machine Learning & AI Enthusiast | Full-Stack Explorer 
 - 🤖 AI-Powered Applications
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanjha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aryanjha](https://www.linkedin.com/in/aryan-jha-530719325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryanjha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanjha@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aapka.5ryan@gmail.com)
 
 ---
 
